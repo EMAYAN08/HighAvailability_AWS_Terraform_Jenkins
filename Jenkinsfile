@@ -18,7 +18,7 @@ pipeline {
                     checkout([
                         $class: 'GitSCM',
                         branches: [[name: '*/main']],
-                        userRemoteConfigs: [[url: 'https://github.com/mathesh-me/aws-ha-deployment-jenkins-terraform.git']]
+                        userRemoteConfigs: [[url: 'https://github.com/EMAYAN08/HighAvailability_AWS_Terraform_Jenkins.git']]
                     ])
                 }
             }
