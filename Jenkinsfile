@@ -33,7 +33,7 @@ pipeline {
             steps {
                 script {
                     // Conditional execution of init and plan stages only when deploying
-                    sh 'terraform init'
+                    sh 'terraform init -migrate-state'
                     sh 'terraform plan -out=tfplan'
                 }
             }
