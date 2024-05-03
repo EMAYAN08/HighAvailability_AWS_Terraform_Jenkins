@@ -92,10 +92,6 @@ Before you begin, ensure you have the following:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Aknowledgements 🙏
 
 - [AWS](https://aws.amazon.com/) - For hosting the application.
@@ -106,7 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
   ## Author ✍️
 
-- [Mathesh](https://www.linkedin.com/in/mathesh-me/) on LinkedIn.
+- Follow me [Emayan](https://www.linkedin.com/in/emayan-vadivel/) on LinkedIn.
 
-- You Can also check out my [Medium](https://medium.com/@mathesh-me) for more articles on DevOps Tools and Technologies.
 
