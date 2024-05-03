@@ -15,7 +15,7 @@ The project is divided into two parts:
 
 ## Workflow Diagram 📊
 
-![AWS Resource Deploy using Jenkins and Terraform](https://github.com/mathesh-me/aws-ha-deployment-jenkins-terraform/assets/144098846/e59aa66d-8a1e-4c78-99dc-045653d53aa1)
+![AWS Resource Deploy using Jenkins and Terraform](./Architecture/ArchitectureHA.jpg)
 
 
 ## Features 📋
